@@ -30,7 +30,7 @@ export default function ButtonAppBar() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            CORANA KIDS TEST ':)'
+            CORONA KIDS TEST ':)'
           </Typography>
         </Toolbar>
       </AppBar>

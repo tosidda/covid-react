@@ -37,9 +37,9 @@ export default function Query(props) {
 
     function seeResult() {
         if (q1 && q2 === false && q3 && q4 === false && q5 === false && q6 === false && q7 === false && q8 === false){
-            props.setResult("YOU ARE SAFE FROM CORANA")
+            props.setResult("YOU ARE SAFE FROM CORONA")
         } else {
-            props.setResult("YOU MUST HAVE DONE SOMETHING WRONG CUZ ITS CORANA TIME!!!!")
+            props.setResult("YOU MUST HAVE DONE SOMETHING WRONG CUZ ITS CORONA TIME!!!!")
             props.setBeer(true)
             
         }
