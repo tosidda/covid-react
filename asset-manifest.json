@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covid-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/covid-react/static/js/main.6f86d8a9.chunk.js",
+    "main.js.map": "/covid-react/static/js/main.6f86d8a9.chunk.js.map",
+    "runtime-main.js": "/covid-react/static/js/runtime-main.52b36900.js",
+    "runtime-main.js.map": "/covid-react/static/js/runtime-main.52b36900.js.map",
+    "static/js/2.a7463ed3.chunk.js": "/covid-react/static/js/2.a7463ed3.chunk.js",
+    "static/js/2.a7463ed3.chunk.js.map": "/covid-react/static/js/2.a7463ed3.chunk.js.map",
+    "index.html": "/covid-react/index.html",
+    "precache-manifest.c86216e32d185c0d426ca54988167629.js": "/covid-react/precache-manifest.c86216e32d185c0d426ca54988167629.js",
+    "service-worker.js": "/covid-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/covid-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a7463ed3.chunk.js.LICENSE.txt": "/covid-react/static/js/2.a7463ed3.chunk.js.LICENSE.txt",
+    "static/media/beer.png": "/covid-react/static/media/beer.4a33bab6.png",
+    "static/media/corana.png": "/covid-react/static/media/corana.a735d38a.png",
+    "static/media/logo.svg": "/covid-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52b36900.js",
+    "static/js/2.a7463ed3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6f86d8a9.chunk.js"
+  ]
+}
